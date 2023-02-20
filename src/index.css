@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background: #D7DBDD ;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+  background-color: #7B7D7D;
+}
+
+#root {
+  height: 100vh;
+}

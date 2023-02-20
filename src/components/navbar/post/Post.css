@@ -1,0 +1,12 @@
+.card {
+    margin: 10px;
+   /* background-color: #ECF0F1;*/
+}
+
+.lightcard {
+    background-color: #ECF0F1;
+}
+
+.darkcard {
+    background-color: #566573;
+}
